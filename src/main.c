@@ -1,15 +1,4 @@
-#include <stdio.h>
-#include "layout.h"
-#include "move.h"
-#include "output.h"
 
-void PawnMove ();
-void PawnMoveWhite ();
-void PawnMoveBlack ();
-
-int main()
-{	
-	char con;
 #include "layout.h"
 #include "move.h"
 #include "output.h"
